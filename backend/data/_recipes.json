@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "title": "Pizza Margherita",
+    "category": "Italian",
+    "ingredients": [
+      "Dough",
+      "Tomato Sauce",
+      "Mozzarella Cheese",
+      "Basil",
+      "Olive Oil"
+    ],
+    "instructions": [
+      "1. Preheat the oven to 475°F (245°C)",
+      "2. Stretch out the pizza dough",
+      "3. Spread the tomato sauce over the dough",
+      "4. Sprinkle mozzarella cheese over the sauce",
+      "5. Add fresh basil leaves",
+      "6. Drizzle with olive oil",
+      "7. Bake for 10-12 minutes, or until the crust is golden brown",
+      "8. Slice and serve"
+    ],
+    "time": "30 minutes",
+    "image": "https://www.giallozafferano.com/images/260-26051/Pizza-Margherita_1200x800.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Salmon Avocado Roll",
+    "category": "Japanese",
+    "ingredients": ["Sushi Rice", "Nori", "Salmon", "Avocado", "Cucumber"],
+    "instructions": [
+      "1. Place a sheet of nori on a bamboo sushi mat",
+      "2. Spread sushi rice evenly over the nori",
+      "3. Place thin slices of salmon and avocado along one edge of the rice",
+      "4. Roll the sushi tightly using the bamboo mat",
+      "5. Slice into bite-sized pieces",
+      "6. Serve with soy sauce, wasabi, and pickled ginger"
+    ],
+    "time": "25 minutes",
+    "image": "https://www.kikkoman.eu/fileadmin/_processed_/2/9/csm_942-recipe-page-smoked-salmon-and-avocado-roll_desktop_b05ba12590.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Beef Tacos",
+    "category": "Mexican",
+    "ingredients": [
+      "Ground Beef",
+      "Taco Seasoning",
+      "Tortillas",
+      "Lettuce",
+      "Tomato",
+      "Cheese",
+      "Sour Cream",
+      "Salsa"
+    ],
+    "instructions": [
+      "1. Brown the ground beef in a skillet",
+      "2. Drain excess fat and add taco seasoning",
+      "3. Warm the tortillas in a separate skillet",
+      "4. Fill each tortilla with seasoned beef, lettuce, tomato, cheese, sour cream, and salsa",
+      "5. Fold the tortillas and serve immediately"
+    ],
+    "time": "20 minutes",
+    "image": "https://www.marionskitchen.com/wp-content/uploads/2022/02/Quick-Chorizo-Beef-Tacos-03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Spaghetti Carbonara",
+    "category": "Italian",
+    "ingredients": [
+      "Spaghetti",
+      "Bacon",
+      "Eggs",
+      "Parmesan Cheese",
+      "Black Pepper"
+    ],
+    "instructions": [
+      "1. Cook spaghetti according to package instructions",
+      "2. Cook bacon in a skillet until crispy",
+      "3. In a bowl, whisk together eggs, Parmesan cheese, and black pepper",
+      "4. Drain spaghetti and add to the skillet with bacon",
+      "5. Quickly stir in the egg mixture until the spaghetti is coated",
+      "6. Serve immediately with extra Parmesan cheese"
+    ],
+    "time": "25 minutes",
+    "image": "https://www.allrecipes.com/thmb/Y7ftij8uq7sM2VpxGt-RHZg3yaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-mfs-042-21d5decdffde4a1faa94a21725ce9cc3.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Greek Salad",
+    "category": "Mediterranean",
+    "ingredients": [
+      "Lettuce",
+      "Tomato",
+      "Cucumber",
+      "Red Onion",
+      "Kalamata Olives",
+      "Feta Cheese",
+      "Olive Oil",
+      "Lemon Juice",
+      "Dried Oregano"
+    ],
+    "instructions": [
+      "1. Chop lettuce, tomato, cucumber, and red onion",
+      "2. Place chopped vegetables in a large bowl",
+      "3. Add Kalamata olives and crumbled feta cheese",
+      "4. Drizzle olive oil and lemon juice over the salad",
+      "5. Sprinkle with dried oregano",
+      "6. Toss gently to combine",
+      "7. Serve immediately"
+    ],
+    "time": "15 minutes",
+    "image": "https://www.italianbellavita.com/wp-content/uploads/2022/08/739C7136-CBA2-4DDC-8D56-ECA409F69AB9-3-735x735.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Chicken Tikka Masala",
+    "category": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Tomato Sauce",
+      "Cream",
+      "Garam Masala",
+      "Garlic",
+      "Ginger",
+      "Onion",
+      "Rice"
+    ],
+    "instructions": [
+      "1. Marinate chicken pieces in yogurt and garam masala",
+      "2. Grill or bake chicken until cooked through",
+      "3. In a separate skillet, sauté garlic, ginger, and onion until softened",
+      "4. Add tomato sauce and cream to the skillet",
+      "5. Slice cooked chicken and add to the sauce",
+      "6. Simmer for 10-15 minutes",
+      "7. Serve over rice"
+    ],
+    "time": "35 minutes",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/chicken-tikka-masala1-1663341991.jpg?crop=0.9057777777777778xw:1xh;center,top&resize=1200:*"
+  },
+  {
+    "id": 7,
+    "title": "Beef and Broccoli Stir-Fry",
+    "category": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Broccoli",
+      "Soy Sauce",
+      "Oyster Sauce",
+      "Garlic",
+      "Ginger",
+      "Sesame Oil",
+      "Rice"
+    ],
+    "instructions": [
+      "1. Slice beef thinly and marinate in soy sauce and sesame oil",
+      "2. Blanch broccoli florets in boiling water",
+      "3. In a wok, stir-fry garlic and ginger until fragrant",
+      "4. Add beef to the wok and stir-fry until browned",
+      "5. Add blanched broccoli and oyster sauce to the wok",
+      "6. Stir-fry until heated through",
+      "7. Serve over rice"
+    ],
+    "time": "20 minutes",
+    "image": "https://silkroadrecipes.com/wp-content/uploads/2022/08/Broccoli-Beef-Stir-Fry-square.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Turkey Club Sandwich",
+    "category": "American",
+    "ingredients": [
+      "Turkey Breast",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise",
+      "Toasted Bread"
+    ],
+    "instructions": [
+      "1. Cook bacon until crispy",
+      "2. Toast bread slices until golden brown",
+      "3. Spread mayonnaise on one side of each bread slice",
+      "4. Layer turkey breast, bacon, lettuce, and tomato between two slices of bread",
+      "5. Cut sandwich in half diagonally",
+      "6. Serve immediately"
+    ],
+    "time": "15 minutes",
+    "image": "https://bakerbynature.com/wp-content/uploads/2022/06/Italian-Turkey-Club-Sandwiches-12.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Tomato Basil Soup",
+    "category": "American",
+    "ingredients": [
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Vegetable Broth",
+      "Fresh Basil",
+      "Cream",
+      "Olive Oil",
+      "Salt",
+      "Black Pepper"
+    ],
+    "instructions": [
+      "1. Sauté chopped onion and garlic in olive oil until softened",
+      "2. Add chopped tomatoes and vegetable broth to the pot",
+      "3. Simmer for 20-25 minutes",
+      "4. Puree the soup until smooth",
+      "5. Stir in chopped fresh basil and cream",
+      "6. Season with salt and black pepper",
+      "7. Serve hot"
+    ],
+    "time": "30 minutes",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/09/tomato-basil-soup.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "ingredients": [
+      "Butter",
+      "Sugar",
+      "Brown Sugar",
+      "Eggs",
+      "Vanilla Extract",
+      "Flour",
+      "Baking Soda",
+      "Salt",
+      "Chocolate Chips"
+    ],
+    "instructions": [
+      "1. Cream together butter, sugar, and brown sugar until light"
+    ],
+    "time": "25 minutes",
+    "image": "https://static01.nyt.com/images/2023/04/11/multimedia/mp-chocolate-chip-cookies-vtgz/mp-chocolate-chip-cookies-vtgz-superJumbo.jpg"
+  },
+  {
+    "title": "Pizza Margherita 2",
+    "category": "Italian",
+    "ingredients": [
+      "Dough",
+      "Tomato Sauce",
+      "Mozzarella Cheese",
+      "Basil",
+      "Olive Oil"
+    ],
+    "instructions": [
+      "1. Preheat the oven to 475°F (245°C)",
+      "2. Stretch out the pizza dough",
+      "3. Spread the tomato sauce over the dough",
+      "4. Sprinkle mozzarella cheese over the sauce",
+      "5. Add fresh basil leaves",
+      "6. Drizzle with olive oil",
+      "7. Bake for 10-12 minutes, or until the crust is golden brown",
+      "8. Slice and serve"
+    ],
+    "time": "30 minutes",
+    "image": "https://www.giallozafferano.com/images/260-26051/Pizza-Margherita_1200x800.jpg",
+    "id": "d23867af-a447-46e8-b20c-00200686799f"
+  }
+]
